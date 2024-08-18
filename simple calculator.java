@@ -11,10 +11,10 @@ public class Main {
         float num1, num2, result = 0;
         char operation;
 
-        System.out.println("Enter the first number: ");
+        System.out.print("Enter the first number: ");
         num1 = scanner.nextInt();
 
-        System.out.println("Enter the second number: ");
+        System.out.print("Enter the second number: ");
         num2 = scanner.nextInt();
 
         System.out.println("Choose an operation: \n(+) Addition\n(-) Subtraction\n(*) Multiplication\n(/) Division ");
